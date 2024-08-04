@@ -7,447 +7,447 @@
                 "districts": [
                     {
                         "label": "Академический",
-                        "slug": "akademicheskiy"
+                        "eng": "akademicheskiy"
                     },
                     {
                         "label": "Алексеевский",
-                        "slug": "alekseevskiy"
+                        "eng": "alekseevskiy"
                     },
                     {
                         "label": "Алтуфьевский",
-                        "slug": "altufevskiy"
+                        "eng": "altufevskiy"
                     },
                     {
                         "label": "Арбат",
-                        "slug": "arbat"
+                        "eng": "arbat"
                     },
                     {
                         "label": "Аэропорт",
-                        "slug": "aeroport"
+                        "eng": "aeroport"
                     },
                     {
                         "label": "Бабушкинский",
-                        "slug": "babushkinskiy"
+                        "eng": "babushkinskiy"
                     },
                     {
                         "label": "Басманный",
-                        "slug": "basmannyy"
+                        "eng": "basmannyy"
                     },
                     {
                         "label": "Беговой",
-                        "slug": "begovoy"
+                        "eng": "begovoy"
                     },
                     {
                         "label": "Бескудниковский",
-                        "slug": "beskudnikovskiy"
+                        "eng": "beskudnikovskiy"
                     },
                     {
                         "label": "Бибирево",
-                        "slug": "bibirevo"
+                        "eng": "bibirevo"
                     },
                     {
                         "label": "Зябликово",
-                        "slug": "zyablikovo"
+                        "eng": "zyablikovo"
                     },
                     {
                         "label": "Ивановское",
-                        "slug": "ivanovskoe"
+                        "eng": "ivanovskoe"
                     },
                     {
                         "label": "Измайлово",
-                        "slug": "izmaylovo"
+                        "eng": "izmaylovo"
                     },
                     {
                         "label": "Капотня",
-                        "slug": "kapotnya"
+                        "eng": "kapotnya"
                     },
                     {
                         "label": "Коньково",
-                        "slug": "konkovo"
+                        "eng": "konkovo"
                     },
                     {
                         "label": "Коптево",
-                        "slug": "koptevo"
+                        "eng": "koptevo"
                     },
                     {
                         "label": "Косино-ухтомский",
-                        "slug": "kosino-uhtomskiy"
+                        "eng": "kosino-uhtomskiy"
                     },
                     {
                         "label": "Котловка",
-                        "slug": "kotlovka"
+                        "eng": "kotlovka"
                     },
                     {
                         "label": "Красносельский",
-                        "slug": "krasnoselskiy"
+                        "eng": "krasnoselskiy"
                     },
                     {
                         "label": "Крылатское",
-                        "slug": "krylatskoe"
+                        "eng": "krylatskoe"
                     },
                     {
                         "label": "Нагорный",
-                        "slug": "nagornyy"
+                        "eng": "nagornyy"
                     },
                     {
                         "label": "Некрасовка",
-                        "slug": "nekrasovka"
+                        "eng": "nekrasovka"
                     },
                     {
                         "label": "Нижегородский",
-                        "slug": "nizhegorodskiy"
+                        "eng": "nizhegorodskiy"
                     },
                     {
                         "label": "Новогиреево",
-                        "slug": "novogireevo"
+                        "eng": "novogireevo"
                     },
                     {
                         "label": "Новокосино",
-                        "slug": "novokosino"
+                        "eng": "novokosino"
                     },
                     {
                         "label": "Ново-переделкино",
-                        "slug": "novo-peredelkino"
+                        "eng": "novo-peredelkino"
                     },
                     {
                         "label": "Обручевский",
-                        "slug": "obruchevskiy"
+                        "eng": "obruchevskiy"
                     },
                     {
                         "label": "Орехово-борисово северное",
-                        "slug": "orehovo-borisovo-severnoe"
+                        "eng": "orehovo-borisovo-severnoe"
                     },
                     {
                         "label": "Орехово-борисово южное",
-                        "slug": "orehovo-borisovo-yuzhnoe"
+                        "eng": "orehovo-borisovo-yuzhnoe"
                     },
                     {
                         "label": "Останкинский",
-                        "slug": "ostankinskiy"
+                        "eng": "ostankinskiy"
                     },
                     {
                         "label": "Сокольники",
-                        "slug": "sokolniki"
+                        "eng": "sokolniki"
                     },
                     {
                         "label": "Солнцево",
-                        "slug": "solncevo"
+                        "eng": "solncevo"
                     },
                     {
                         "label": "Строгино",
-                        "slug": "strogino"
+                        "eng": "strogino"
                     },
                     {
                         "label": "Таганский",
-                        "slug": "taganskiy"
+                        "eng": "taganskiy"
                     },
                     {
                         "label": "Тверской",
-                        "slug": "tverskoy"
+                        "eng": "tverskoy"
                     },
                     {
                         "label": "Текстильщики",
-                        "slug": "tekstilshchiki"
+                        "eng": "tekstilshchiki"
                     },
                     {
                         "label": "Тёплый стан",
-                        "slug": "tyoplyy-stan"
+                        "eng": "tyoplyy-stan"
                     },
                     {
                         "label": "Тимирязевский",
-                        "slug": "timiryazevskiy"
+                        "eng": "timiryazevskiy"
                     },
                     {
                         "label": "Тропарёво-никулино",
-                        "slug": "troparyovo-nikulino"
+                        "eng": "troparyovo-nikulino"
                     },
                     {
                         "label": "Филёвский парк",
-                        "slug": "filyovskiy-park"
+                        "eng": "filyovskiy-park"
                     },
                     {
                         "label": "Бирюлёво восточное",
-                        "slug": "biryulyovo-vostochnoe"
+                        "eng": "biryulyovo-vostochnoe"
                     },
                     {
                         "label": "Бирюлёво западное",
-                        "slug": "biryulyovo-zapadnoe"
+                        "eng": "biryulyovo-zapadnoe"
                     },
                     {
                         "label": "Богородское",
-                        "slug": "bogorodskoe"
+                        "eng": "bogorodskoe"
                     },
                     {
                         "label": "Братеево",
-                        "slug": "brateevo"
+                        "eng": "brateevo"
                     },
                     {
                         "label": "Бутырский",
-                        "slug": "butyrskiy"
+                        "eng": "butyrskiy"
                     },
                     {
                         "label": "Вешняки",
-                        "slug": "veshnyaki"
+                        "eng": "veshnyaki"
                     },
                     {
                         "label": "Войковский",
-                        "slug": "voykovskiy"
+                        "eng": "voykovskiy"
                     },
                     {
                         "label": "Восточное дегунино",
-                        "slug": "vostochnoe-degunino"
+                        "eng": "vostochnoe-degunino"
                     },
                     {
                         "label": "Восточное измайлово",
-                        "slug": "vostochnoe-izmaylovo"
+                        "eng": "vostochnoe-izmaylovo"
                     },
                     {
                         "label": "Выхино-жулебино",
-                        "slug": "vyhino-zhulebino"
+                        "eng": "vyhino-zhulebino"
                     },
                     {
                         "label": "Гагаринский",
-                        "slug": "gagarinskiy"
+                        "eng": "gagarinskiy"
                     },
                     {
                         "label": "Головинский",
-                        "slug": "golovinskiy"
+                        "eng": "golovinskiy"
                     },
                     {
                         "label": "Гольяново",
-                        "slug": "golyanovo"
+                        "eng": "golyanovo"
                     },
                     {
                         "label": "Кузьминки",
-                        "slug": "kuzminki"
+                        "eng": "kuzminki"
                     },
                     {
                         "label": "Кунцево",
-                        "slug": "kuncevo"
+                        "eng": "kuncevo"
                     },
                     {
                         "label": "Куркино",
-                        "slug": "kurkino"
+                        "eng": "kurkino"
                     },
                     {
                         "label": "Левобережный",
-                        "slug": "levoberezhnyy"
+                        "eng": "levoberezhnyy"
                     },
                     {
                         "label": "Лефортово",
-                        "slug": "lefortovo"
+                        "eng": "lefortovo"
                     },
                     {
                         "label": "Лианозово",
-                        "slug": "lianozovo"
+                        "eng": "lianozovo"
                     },
                     {
                         "label": "Ломоносовский",
-                        "slug": "lomonosovskiy"
+                        "eng": "lomonosovskiy"
                     },
                     {
                         "label": "Лосиноостровский",
-                        "slug": "losinoostrovskiy"
+                        "eng": "losinoostrovskiy"
                     },
                     {
                         "label": "Люблино",
-                        "slug": "lyublino"
+                        "eng": "lyublino"
                     },
                     {
                         "label": "Марфино",
-                        "slug": "marfino"
+                        "eng": "marfino"
                     },
                     {
                         "label": "Марьина роща",
-                        "slug": "marina-roshcha"
+                        "eng": "marina-roshcha"
                     },
                     {
                         "label": "Марьино",
-                        "slug": "marino"
+                        "eng": "marino"
                     },
                     {
                         "label": "Метрогородок",
-                        "slug": "metrogorodok"
+                        "eng": "metrogorodok"
                     },
                     {
                         "label": "Отрадное",
-                        "slug": "otradnoe"
+                        "eng": "otradnoe"
                     },
                     {
                         "label": "Очаково-матвеевское",
-                        "slug": "ochakovo-matveevskoe"
+                        "eng": "ochakovo-matveevskoe"
                     },
                     {
                         "label": "Перово",
-                        "slug": "perovo"
+                        "eng": "perovo"
                     },
                     {
                         "label": "Печатники",
-                        "slug": "pechatniki"
+                        "eng": "pechatniki"
                     },
                     {
                         "label": "Покровское-стрешнево",
-                        "slug": "pokrovskoe-streshnevo"
+                        "eng": "pokrovskoe-streshnevo"
                     },
                     {
                         "label": "Преображенское",
-                        "slug": "preobrazhenskoe"
+                        "eng": "preobrazhenskoe"
                     },
                     {
                         "label": "Пресненский",
-                        "slug": "presnenskiy"
+                        "eng": "presnenskiy"
                     },
                     {
                         "label": "Проспект вернадского",
-                        "slug": "prospekt-vernadskogo"
+                        "eng": "prospekt-vernadskogo"
                     },
                     {
                         "label": "Раменки",
-                        "slug": "ramenki"
+                        "eng": "ramenki"
                     },
                     {
                         "label": "Ростокино",
-                        "slug": "rostokino"
+                        "eng": "rostokino"
                     },
                     {
                         "label": "Рязанский",
-                        "slug": "ryazanskiy"
+                        "eng": "ryazanskiy"
                     },
                     {
                         "label": "Савёловский",
-                        "slug": "savyolovskiy"
+                        "eng": "savyolovskiy"
                     },
                     {
                         "label": "Свиблово",
-                        "slug": "sviblovo"
+                        "eng": "sviblovo"
                     },
                     {
                         "label": "Фили-давыдково",
-                        "slug": "fili-davydkovo"
+                        "eng": "fili-davydkovo"
                     },
                     {
                         "label": "Хамовники",
-                        "slug": "hamovniki"
+                        "eng": "hamovniki"
                     },
                     {
                         "label": "Ховрино",
-                        "slug": "hovrino"
+                        "eng": "hovrino"
                     },
                     {
                         "label": "Хорошёво-мнёвники",
-                        "slug": "horoshyovo-mnyovniki"
+                        "eng": "horoshyovo-mnyovniki"
                     },
                     {
                         "label": "Хорошёвский",
-                        "slug": "horoshyovskiy"
+                        "eng": "horoshyovskiy"
                     },
                     {
                         "label": "Царицыно",
-                        "slug": "caricyno"
+                        "eng": "caricyno"
                     },
                     {
                         "label": "Черёмушки",
-                        "slug": "cheryomushki"
+                        "eng": "cheryomushki"
                     },
                     {
                         "label": "Чертаново северное",
-                        "slug": "chertanovo-severnoe"
+                        "eng": "chertanovo-severnoe"
                     },
                     {
                         "label": "Чертаново центральное",
-                        "slug": "chertanovo-centralnoe"
+                        "eng": "chertanovo-centralnoe"
                     },
                     {
                         "label": "Чертаново южное",
-                        "slug": "chertanovo-yuzhnoe"
+                        "eng": "chertanovo-yuzhnoe"
                     },
                     {
                         "label": "Щукино",
-                        "slug": "shchukino"
+                        "eng": "shchukino"
                     },
                     {
                         "label": "Южное бутово",
-                        "slug": "yuzhnoe-butovo"
+                        "eng": "yuzhnoe-butovo"
                     },
                     {
                         "label": "Южное медведково",
-                        "slug": "yuzhnoe-medvedkovo"
+                        "eng": "yuzhnoe-medvedkovo"
                     },
                     {
                         "label": "Мещанский",
-                        "slug": "meshchanskiy"
+                        "eng": "meshchanskiy"
                     },
                     {
                         "label": "Митино",
-                        "slug": "mitino"
+                        "eng": "mitino"
                     },
                     {
                         "label": "Можайский",
-                        "slug": "mozhayskiy"
+                        "eng": "mozhayskiy"
                     },
                     {
                         "label": "Молжаниновский",
-                        "slug": "molzhaninovskiy"
+                        "eng": "molzhaninovskiy"
                     },
                     {
                         "label": "Москворечье-сабурово",
-                        "slug": "moskvoreche-saburovo"
+                        "eng": "moskvoreche-saburovo"
                     },
                     {
                         "label": "Нагатино-садовники",
-                        "slug": "nagatino-sadovniki"
+                        "eng": "nagatino-sadovniki"
                     },
                     {
                         "label": "Нагатинский затон",
-                        "slug": "nagatinskiy-zaton"
+                        "eng": "nagatinskiy-zaton"
                     },
                     {
                         "label": "Северное бутово",
-                        "slug": "severnoe-butovo"
+                        "eng": "severnoe-butovo"
                     },
                     {
                         "label": "Северное измайлово",
-                        "slug": "severnoe-izmaylovo"
+                        "eng": "severnoe-izmaylovo"
                     },
                     {
                         "label": "Северное медведково",
-                        "slug": "severnoe-medvedkovo"
+                        "eng": "severnoe-medvedkovo"
                     },
                     {
                         "label": "Северное тушино",
-                        "slug": "severnoe-tushino"
+                        "eng": "severnoe-tushino"
                     },
                     {
                         "label": "Еверный",
-                        "slug": "evernyy"
+                        "eng": "evernyy"
                     },
                     {
                         "label": "Сокол",
-                        "slug": "sokol"
+                        "eng": "sokol"
                     },
                     {
                         "label": "Соколиная гора",
-                        "slug": "sokolinaya-gora"
+                        "eng": "sokolinaya-gora"
                     },
                     {
                         "label": "Южное тушино",
-                        "slug": "yuzhnoe-tushino"
+                        "eng": "yuzhnoe-tushino"
                     },
                     {
                         "label": "Южнопортовый",
-                        "slug": "yuzhnoportovyy"
+                        "eng": "yuzhnoportovyy"
                     },
                     {
                         "label": "Якиманка",
-                        "slug": "yakimanka"
+                        "eng": "yakimanka"
                     },
                     {
                         "label": "Рославский",
-                        "slug": "roslavskiy"
+                        "eng": "roslavskiy"
                     },
                     {
                         "label": "Ясенево",
-                        "slug": "yasenevo"
+                        "eng": "yasenevo"
                     }
                 ]
             },
@@ -456,59 +456,59 @@
                 "districts": [
                     {
                         "label": "Адмиралтейский",
-                        "slug": "admiralteyskiy"
+                        "eng": "admiralteyskiy"
                     },
                     {
                         "label": "Василеостровский",
-                        "slug": "vasileostrovskiy"
+                        "eng": "vasileostrovskiy"
                     },
                     {
                         "label": "Выборгский",
-                        "slug": "vyborgskiy"
+                        "eng": "vyborgskiy"
                     },
                     {
                         "label": "Калининский",
-                        "slug": "kalininskiy"
+                        "eng": "kalininskiy"
                     },
                     {
                         "label": "Кировский",
-                        "slug": "kirovskiy"
+                        "eng": "kirovskiy"
                     },
                     {
                         "label": "Колпинский",
-                        "slug": "kolpinskiy"
+                        "eng": "kolpinskiy"
                     },
                     {
                         "label": "Красногвардейский",
-                        "slug": "krasnogvardeyskiy"
+                        "eng": "krasnogvardeyskiy"
                     },
                     {
                         "label": "Красносельский",
-                        "slug": "krasnoselskiy"
+                        "eng": "krasnoselskiy"
                     },
                     {
                         "label": "Московский",
-                        "slug": "moskovskiy"
+                        "eng": "moskovskiy"
                     },
                     {
                         "label": "Невский",
-                        "slug": "nevskiy"
+                        "eng": "nevskiy"
                     },
                     {
                         "label": "Петроградский",
-                        "slug": "petrogradskiy"
+                        "eng": "petrogradskiy"
                     },
                     {
                         "label": "Приморский",
-                        "slug": "primorskiy"
+                        "eng": "primorskiy"
                     },
                     {
                         "label": "Фрунзенский",
-                        "slug": "frunzenskiy"
+                        "eng": "frunzenskiy"
                     },
                     {
                         "label": "Центральный",
-                        "slug": "centralnyy"
+                        "eng": "centralnyy"
                     }
                 ]
             },
@@ -548,23 +548,23 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Индустриальный",
-                                "slug": "industrialnyy"
+                                "eng": "industrialnyy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -605,115 +605,115 @@
                         "districts": [
                             {
                                 "label": "1-й участок",
-                                "slug": "1-y-uchastok"
+                                "eng": "1-y-uchastok"
                             },
                             {
                                 "label": "31 квартал",
-                                "slug": "31-kvartal"
+                                "eng": "31-kvartal"
                             },
                             {
                                 "label": "АБ",
-                                "slug": "ab"
+                                "eng": "ab"
                             },
                             {
                                 "label": "Вихоревка",
-                                "slug": "vihorevka"
+                                "eng": "vihorevka"
                             },
                             {
                                 "label": "Вокзал",
-                                "slug": "vokzal"
+                                "eng": "vokzal"
                             },
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Выставочный зал",
-                                "slug": "vystavochnyy-zal"
+                                "eng": "vystavochnyy-zal"
                             },
                             {
                                 "label": "Детский мир",
-                                "slug": "detskiy-mir"
+                                "eng": "detskiy-mir"
                             },
                             {
                                 "label": "Заречье",
-                                "slug": "zareche"
+                                "eng": "zareche"
                             },
                             {
                                 "label": "Зеленый клин",
-                                "slug": "zelenyy-klin"
+                                "eng": "zelenyy-klin"
                             },
                             {
                                 "label": "Кирпичный завод",
-                                "slug": "kirpichnyy-zavod"
+                                "eng": "kirpichnyy-zavod"
                             },
                             {
                                 "label": "Лесозавод",
-                                "slug": "lesozavod"
+                                "eng": "lesozavod"
                             },
                             {
                                 "label": "Мочище",
-                                "slug": "mochishche"
+                                "eng": "mochishche"
                             },
                             {
                                 "label": "Нагорный",
-                                "slug": "nagornyy"
+                                "eng": "nagornyy"
                             },
                             {
                                 "label": "Нефтебаза",
-                                "slug": "neftebaza"
+                                "eng": "neftebaza"
                             },
                             {
                                 "label": "Новый",
-                                "slug": "novyy"
+                                "eng": "novyy"
                             },
                             {
                                 "label": "Одинцовка",
-                                "slug": "odincovka"
+                                "eng": "odincovka"
                             },
                             {
                                 "label": "Переезд",
-                                "slug": "pereezd"
+                                "eng": "pereezd"
                             },
                             {
                                 "label": "Поселок котельщиков",
-                                "slug": "poselok-kotelshchikov"
+                                "eng": "poselok-kotelshchikov"
                             },
                             {
                                 "label": "Пригородный",
-                                "slug": "prigorodnyy"
+                                "eng": "prigorodnyy"
                             },
                             {
                                 "label": "Снт заря",
-                                "slug": "snt-zarya"
+                                "eng": "snt-zarya"
                             },
                             {
                                 "label": "Солнечная поляна",
-                                "slug": "solnechnaya-polyana"
+                                "eng": "solnechnaya-polyana"
                             },
                             {
                                 "label": "Солнечный",
-                                "slug": "solnechnyy"
+                                "eng": "solnechnyy"
                             },
                             {
                                 "label": "Сорокино",
-                                "slug": "sorokino"
+                                "eng": "sorokino"
                             },
                             {
                                 "label": "Спичка",
-                                "slug": "spichka"
+                                "eng": "spichka"
                             },
                             {
                                 "label": "Табачка",
-                                "slug": "tabachka"
+                                "eng": "tabachka"
                             },
                             {
                                 "label": "Трест",
-                                "slug": "trest"
+                                "eng": "trest"
                             },
                             {
                                 "label": "Фоминское",
-                                "slug": "fominskoe"
+                                "eng": "fominskoe"
                             }
                         ]
                     },
@@ -2192,39 +2192,39 @@
                         "districts": [
                             {
                                 "label": "Варавино-фактория",
-                                "slug": "varavino-faktoriya"
+                                "eng": "varavino-faktoriya"
                             },
                             {
                                 "label": "Исакогорский",
-                                "slug": "isakogorskiy"
+                                "eng": "isakogorskiy"
                             },
                             {
                                 "label": "Ломоносовский",
-                                "slug": "lomonosovskiy"
+                                "eng": "lomonosovskiy"
                             },
                             {
                                 "label": "Маймаксанский",
-                                "slug": "maymaksanskiy"
+                                "eng": "maymaksanskiy"
                             },
                             {
                                 "label": "Майская горка",
-                                "slug": "mayskaya-gorka"
+                                "eng": "mayskaya-gorka"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             },
                             {
                                 "label": "Соломбальский",
-                                "slug": "solombalskiy"
+                                "eng": "solombalskiy"
                             },
                             {
                                 "label": "Цигломенский",
-                                "slug": "ciglomenskiy"
+                                "eng": "ciglomenskiy"
                             }
                         ]
                     },
@@ -2409,27 +2409,27 @@
                         "districts": [
                             {
                                 "label": "Кварталы",
-                                "slug": "kvartaly"
+                                "eng": "kvartaly"
                             },
                             {
                                 "label": "Новый город",
-                                "slug": "novyy-gorod"
+                                "eng": "novyy-gorod"
                             },
                             {
                                 "label": "Старый город",
-                                "slug": "staryy-gorod"
+                                "eng": "staryy-gorod"
                             },
                             {
                                 "label": "Угломин",
-                                "slug": "uglomin"
+                                "eng": "uglomin"
                             },
                             {
                                 "label": "Центр",
-                                "slug": "centr"
+                                "eng": "centr"
                             },
                             {
                                 "label": "Ягры",
-                                "slug": "yagry"
+                                "eng": "yagry"
                             }
                         ]
                     },
@@ -2515,19 +2515,19 @@
                         "districts": [
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Трусовский",
-                                "slug": "trusovskiy"
+                                "eng": "trusovskiy"
                             }
                         ]
                     },
@@ -3522,19 +3522,19 @@
                         "districts": [
                             {
                                 "label": "Бежицкий",
-                                "slug": "bezhickiy"
+                                "eng": "bezhickiy"
                             },
                             {
                                 "label": "Володарский",
-                                "slug": "volodarskiy"
+                                "eng": "volodarskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Фокинский",
-                                "slug": "fokinskiy"
+                                "eng": "fokinskiy"
                             }
                         ]
                     },
@@ -3824,15 +3824,15 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Фрунзенский",
-                                "slug": "frunzenskiy"
+                                "eng": "frunzenskiy"
                             }
                         ]
                     },
@@ -4250,35 +4250,35 @@
                         "districts": [
                             {
                                 "label": "Ворошиловский",
-                                "slug": "voroshilovskiy"
+                                "eng": "voroshilovskiy"
                             },
                             {
                                 "label": "Дзержинский",
-                                "slug": "dzerzhinskiy"
+                                "eng": "dzerzhinskiy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Красноармейский",
-                                "slug": "krasnoarmeyskiy"
+                                "eng": "krasnoarmeyskiy"
                             },
                             {
                                 "label": "Краснооктябрьский",
-                                "slug": "krasnooktyabrskiy"
+                                "eng": "krasnooktyabrskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Тракторозаводский",
-                                "slug": "traktorozavodskiy"
+                                "eng": "traktorozavodskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -4952,103 +4952,103 @@
                         "districts": [
                             {
                                 "label": "1 микрорайон гпз-23",
-                                "slug": "1-mikrorayon-gpz-23"
+                                "eng": "1-mikrorayon-gpz-23"
                             },
                             {
                                 "label": "2-4 микрорайоны",
-                                "slug": "2-4-mikrorayony"
+                                "eng": "2-4-mikrorayony"
                             },
                             {
                                 "label": "5 микрорайон",
-                                "slug": "5-mikrorayon"
+                                "eng": "5-mikrorayon"
                             },
                             {
                                 "label": "6 микрорайон",
-                                "slug": "6-mikrorayon"
+                                "eng": "6-mikrorayon"
                             },
                             {
                                 "label": "Бывалово",
-                                "slug": "byvalovo"
+                                "eng": "byvalovo"
                             },
                             {
                                 "label": "Верхний посад",
-                                "slug": "verhniy-posad"
+                                "eng": "verhniy-posad"
                             },
                             {
                                 "label": "Водники",
-                                "slug": "vodniki"
+                                "eng": "vodniki"
                             },
                             {
                                 "label": "Завокзальный",
-                                "slug": "zavokzalnyy"
+                                "eng": "zavokzalnyy"
                             },
                             {
                                 "label": "Заречье",
-                                "slug": "zareche"
+                                "eng": "zareche"
                             },
                             {
                                 "label": "Зелёный город",
-                                "slug": "zelyonyy-gorod"
+                                "eng": "zelyonyy-gorod"
                             },
                             {
                                 "label": "Лоста",
-                                "slug": "losta"
+                                "eng": "losta"
                             },
                             {
                                 "label": "Лукьяново",
-                                "slug": "lukyanovo"
+                                "eng": "lukyanovo"
                             },
                             {
                                 "label": "Льнокомбинат",
-                                "slug": "lnokombinat"
+                                "eng": "lnokombinat"
                             },
                             {
                                 "label": "Можайский",
-                                "slug": "mozhayskiy"
+                                "eng": "mozhayskiy"
                             },
                             {
                                 "label": "Насон-город",
-                                "slug": "nason-gorod"
+                                "eng": "nason-gorod"
                             },
                             {
                                 "label": "Нижний посад",
-                                "slug": "nizhniy-posad"
+                                "eng": "nizhniy-posad"
                             },
                             {
                                 "label": "Осаново",
-                                "slug": "osanovo"
+                                "eng": "osanovo"
                             },
                             {
                                 "label": "Прилуки",
-                                "slug": "priluki"
+                                "eng": "priluki"
                             },
                             {
                                 "label": "Ремсельмаш",
-                                "slug": "remselmash"
+                                "eng": "remselmash"
                             },
                             {
                                 "label": "Станкозавод",
-                                "slug": "stankozavod"
+                                "eng": "stankozavod"
                             },
                             {
                                 "label": "Тепличный",
-                                "slug": "teplichnyy"
+                                "eng": "teplichnyy"
                             },
                             {
                                 "label": "Фрязиново",
-                                "slug": "fryazinovo"
+                                "eng": "fryazinovo"
                             },
                             {
                                 "label": "Чернышово",
-                                "slug": "chernyshovo"
+                                "eng": "chernyshovo"
                             },
                             {
                                 "label": "Южная роща",
-                                "slug": "yuzhnaya-roshcha"
+                                "eng": "yuzhnaya-roshcha"
                             },
                             {
                                 "label": "Южный",
-                                "slug": "yuzhnyy"
+                                "eng": "yuzhnyy"
                             }
                         ]
                     },
@@ -5301,19 +5301,19 @@
                         "districts": [
                             {
                                 "label": "Зашекснинский",
-                                "slug": "zasheksninskiy"
+                                "eng": "zasheksninskiy"
                             },
                             {
                                 "label": "Заягорбский",
-                                "slug": "zayagorbskiy"
+                                "eng": "zayagorbskiy"
                             },
                             {
                                 "label": "Индустриальный",
-                                "slug": "industrialnyy"
+                                "eng": "industrialnyy"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             }
                         ]
                     },
@@ -5507,27 +5507,27 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Коминтерновский",
-                                "slug": "kominternovskiy"
+                                "eng": "kominternovskiy"
                             },
                             {
                                 "label": "Левобережный",
-                                "slug": "levoberezhnyy"
+                                "eng": "levoberezhnyy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -7393,19 +7393,19 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Фрунзенский",
-                                "slug": "frunzenskiy"
+                                "eng": "frunzenskiy"
                             }
                         ]
                     },
@@ -7635,75 +7635,75 @@
                         "districts": [
                             {
                                 "label": "Байкальск",
-                                "slug": "baykalsk"
+                                "eng": "baykalsk"
                             },
                             {
                                 "label": "Второй промышленный массив",
-                                "slug": "vtoroy-promyshlennyy-massiv"
+                                "eng": "vtoroy-promyshlennyy-massiv"
                             },
                             {
                                 "label": "Деревня совхозная",
-                                "slug": "derevnya-sovhoznaya"
+                                "eng": "derevnya-sovhoznaya"
                             },
                             {
                                 "label": "Загородный посёлок бобры",
-                                "slug": "zagorodnyy-posyolok-bobry"
+                                "eng": "zagorodnyy-posyolok-bobry"
                             },
                             {
                                 "label": "Зелёный остров",
-                                "slug": "zelyonyy-ostrov"
+                                "eng": "zelyonyy-ostrov"
                             },
                             {
                                 "label": "Кварталы",
-                                "slug": "kvartaly"
+                                "eng": "kvartaly"
                             },
                             {
                                 "label": "Кирова",
-                                "slug": "kirova"
+                                "eng": "kirova"
                             },
                             {
                                 "label": "Китой",
-                                "slug": "kitoy"
+                                "eng": "kitoy"
                             },
                             {
                                 "label": "Майск",
-                                "slug": "maysk"
+                                "eng": "maysk"
                             },
                             {
                                 "label": "Новый-4",
-                                "slug": "novyy-4"
+                                "eng": "novyy-4"
                             },
                             {
                                 "label": "Первый промышленный массив",
-                                "slug": "pervyy-promyshlennyy-massiv"
+                                "eng": "pervyy-promyshlennyy-massiv"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             },
                             {
                                 "label": "Старица",
-                                "slug": "starica"
+                                "eng": "starica"
                             },
                             {
                                 "label": "Старо-байкальск",
-                                "slug": "staro-baykalsk"
+                                "eng": "staro-baykalsk"
                             },
                             {
                                 "label": "Строитель",
-                                "slug": "stroitel"
+                                "eng": "stroitel"
                             },
                             {
                                 "label": "Цемпоселок",
-                                "slug": "cemposelok"
+                                "eng": "cemposelok"
                             },
                             {
                                 "label": "Шеститысячник",
-                                "slug": "shestitysyachnik"
+                                "eng": "shestitysyachnik"
                             },
                             {
                                 "label": "Южный массив",
-                                "slug": "yuzhnyy-massiv"
+                                "eng": "yuzhnyy-massiv"
                             }
                         ]
                     },
@@ -7832,19 +7832,19 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Правобережный",
-                                "slug": "pravoberezhnyy"
+                                "eng": "pravoberezhnyy"
                             },
                             {
                                 "label": "Свердловский",
-                                "slug": "sverdlovskiy"
+                                "eng": "sverdlovskiy"
                             }
                         ]
                     },
@@ -8290,71 +8290,71 @@
                         "districts": [
                             {
                                 "label": "Адиюх",
-                                "slug": "adiyuh"
+                                "eng": "adiyuh"
                             },
                             {
                                 "label": "Александровка",
-                                "slug": "aleksandrovka"
+                                "eng": "aleksandrovka"
                             },
                             {
                                 "label": "Аэропорт",
-                                "slug": "aeroport"
+                                "eng": "aeroport"
                             },
                             {
                                 "label": "Богданка",
-                                "slug": "bogdanka"
+                                "eng": "bogdanka"
                             },
                             {
                                 "label": "Вольный аул",
-                                "slug": "volnyy-aul"
+                                "eng": "volnyy-aul"
                             },
                             {
                                 "label": "Горная",
-                                "slug": "gornaya"
+                                "eng": "gornaya"
                             },
                             {
                                 "label": "Допинск",
-                                "slug": "dopinsk"
+                                "eng": "dopinsk"
                             },
                             {
                                 "label": "Дубки",
-                                "slug": "dubki"
+                                "eng": "dubki"
                             },
                             {
                                 "label": "Завокзальный",
-                                "slug": "zavokzalnyy"
+                                "eng": "zavokzalnyy"
                             },
                             {
                                 "label": "Затишье",
-                                "slug": "zatishe"
+                                "eng": "zatishe"
                             },
                             {
                                 "label": "Искож",
-                                "slug": "iskozh"
+                                "eng": "iskozh"
                             },
                             {
                                 "label": "Кенже",
-                                "slug": "kenzhe"
+                                "eng": "kenzhe"
                             },
                             {
                                 "label": "Колонка",
-                                "slug": "kolonka"
+                                "eng": "kolonka"
                             },
                             {
                                 "label": "Стрелка",
-                                "slug": "strelka"
+                                "eng": "strelka"
                             },
                             {
                                 "label": "Телемеханика",
-                                "slug": "telemehanika"
+                                "eng": "telemehanika"
                             },
                             {
                                 "label": "Университет",
-                                "slug": "universitet"
+                                "eng": "universitet"
                             },
                             {
                                 "label": "Центр",
-                                "slug": "centr"
+                                "eng": "centr"
                             }
                         ]
                     },
@@ -8536,15 +8536,15 @@
                         "districts": [
                             {
                                 "label": "Ленинградский",
-                                "slug": "leningradskiy"
+                                "eng": "leningradskiy"
                             },
                             {
                                 "label": "Московский",
-                                "slug": "moskovskiy"
+                                "eng": "moskovskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -8730,15 +8730,15 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Московский",
-                                "slug": "moskovskiy"
+                                "eng": "moskovskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             }
                         ]
                     },
@@ -9258,23 +9258,23 @@
                         "districts": [
                             {
                                 "label": "Заводский",
-                                "slug": "zavodskiy"
+                                "eng": "zavodskiy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Рудничный",
-                                "slug": "rudnichnyy"
+                                "eng": "rudnichnyy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -9391,27 +9391,27 @@
                         "districts": [
                             {
                                 "label": "Заводской",
-                                "slug": "zavodskoy"
+                                "eng": "zavodskoy"
                             },
                             {
                                 "label": "Кузнецкий",
-                                "slug": "kuzneckiy"
+                                "eng": "kuzneckiy"
                             },
                             {
                                 "label": "Куйбышевский",
-                                "slug": "kuybyshevskiy"
+                                "eng": "kuybyshevskiy"
                             },
                             {
                                 "label": "Новоильинский",
-                                "slug": "novoilinskiy"
+                                "eng": "novoilinskiy"
                             },
                             {
                                 "label": "Орджоникидзевский",
-                                "slug": "ordzhonikidzevskiy"
+                                "eng": "ordzhonikidzevskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -9705,19 +9705,19 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Нововятский",
-                                "slug": "novovyatskiy"
+                                "eng": "novovyatskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             }
                         ]
                     },
@@ -10063,15 +10063,15 @@
                         "districts": [
                             {
                                 "label": "Заволжский",
-                                "slug": "zavolzhskiy"
+                                "eng": "zavolzhskiy"
                             },
                             {
                                 "label": "Фабричный",
-                                "slug": "fabrichnyy"
+                                "eng": "fabrichnyy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -10801,19 +10801,19 @@
                         "districts": [
                             {
                                 "label": "Западный",
-                                "slug": "zapadnyy"
+                                "eng": "zapadnyy"
                             },
                             {
                                 "label": "Карасунский",
-                                "slug": "karasunskiy"
+                                "eng": "karasunskiy"
                             },
                             {
                                 "label": "Прикубанский",
-                                "slug": "prikubanskiy"
+                                "eng": "prikubanskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -11470,19 +11470,19 @@
                         "districts": [
                             {
                                 "label": "Адлерский",
-                                "slug": "adlerskiy"
+                                "eng": "adlerskiy"
                             },
                             {
                                 "label": "Лазаревский",
-                                "slug": "lazarevskiy"
+                                "eng": "lazarevskiy"
                             },
                             {
                                 "label": "Хостинский",
-                                "slug": "hostinskiy"
+                                "eng": "hostinskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -12068,31 +12068,31 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Свердловский",
-                                "slug": "sverdlovskiy"
+                                "eng": "sverdlovskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -13163,35 +13163,35 @@
                         "districts": [
                             {
                                 "label": "Вороновка",
-                                "slug": "voronovka"
+                                "eng": "voronovka"
                             },
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Заозерный",
-                                "slug": "zaozernyy"
+                                "eng": "zaozernyy"
                             },
                             {
                                 "label": "Малое чаусово",
-                                "slug": "maloe-chausovo"
+                                "eng": "maloe-chausovo"
                             },
                             {
                                 "label": "Рябково",
-                                "slug": "ryabkovo"
+                                "eng": "ryabkovo"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             },
                             {
                                 "label": "Энергетики",
-                                "slug": "energetiki"
+                                "eng": "energetiki"
                             }
                         ]
                     },
@@ -13573,15 +13573,15 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Сеймский",
-                                "slug": "seymskiy"
+                                "eng": "seymskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -14720,19 +14720,19 @@
                         "districts": [
                             {
                                 "label": "Левобережный",
-                                "slug": "levoberezhnyy"
+                                "eng": "levoberezhnyy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Правобережный",
-                                "slug": "pravoberezhnyy"
+                                "eng": "pravoberezhnyy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -16733,15 +16733,15 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             }
                         ]
                     },
@@ -17348,35 +17348,35 @@
                         "districts": [
                             {
                                 "label": "Автозаводский",
-                                "slug": "avtozavodskiy"
+                                "eng": "avtozavodskiy"
                             },
                             {
                                 "label": "Канавинский",
-                                "slug": "kanavinskiy"
+                                "eng": "kanavinskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Московский",
-                                "slug": "moskovskiy"
+                                "eng": "moskovskiy"
                             },
                             {
                                 "label": "Нижегородский",
-                                "slug": "nizhegorodskiy"
+                                "eng": "nizhegorodskiy"
                             },
                             {
                                 "label": "Приокский",
-                                "slug": "priokskiy"
+                                "eng": "priokskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Сормовский",
-                                "slug": "sormovskiy"
+                                "eng": "sormovskiy"
                             }
                         ]
                     },
@@ -18303,43 +18303,43 @@
                         "districts": [
                             {
                                 "label": "Дзержинский",
-                                "slug": "dzerzhinskiy"
+                                "eng": "dzerzhinskiy"
                             },
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Заельцовский",
-                                "slug": "zaelcovskiy"
+                                "eng": "zaelcovskiy"
                             },
                             {
                                 "label": "Калининский",
-                                "slug": "kalininskiy"
+                                "eng": "kalininskiy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -18901,23 +18901,23 @@
                         "districts": [
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -19531,19 +19531,19 @@
                         "districts": [
                             {
                                 "label": "Дзержинский",
-                                "slug": "dzerzhinskiy"
+                                "eng": "dzerzhinskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Промышленный",
-                                "slug": "promyshlennyy"
+                                "eng": "promyshlennyy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -19977,19 +19977,19 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Заводской",
-                                "slug": "zavodskoy"
+                                "eng": "zavodskoy"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -20343,19 +20343,19 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             }
                         ]
                     },
@@ -21089,31 +21089,31 @@
                         "districts": [
                             {
                                 "label": "Дзержинский",
-                                "slug": "dzerzhinskiy"
+                                "eng": "dzerzhinskiy"
                             },
                             {
                                 "label": "Индустриальный",
-                                "slug": "industrialnyy"
+                                "eng": "industrialnyy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Мотовилихинский",
-                                "slug": "motovilihinskiy"
+                                "eng": "motovilihinskiy"
                             },
                             {
                                 "label": "Орджоникидзевский",
-                                "slug": "ordzhonikidzevskiy"
+                                "eng": "ordzhonikidzevskiy"
                             },
                             {
                                 "label": "Свердловский",
-                                "slug": "sverdlovskiy"
+                                "eng": "sverdlovskiy"
                             }
                         ]
                     },
@@ -21531,23 +21531,23 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             },
                             {
                                 "label": "Первореченский",
-                                "slug": "pervorechenskiy"
+                                "eng": "pervorechenskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Фрунзенский",
-                                "slug": "frunzenskiy"
+                                "eng": "frunzenskiy"
                             }
                         ]
                     },
@@ -21977,19 +21977,19 @@
                         "districts": [
                             {
                                 "label": "Завеличье",
-                                "slug": "zaveliche"
+                                "eng": "zaveliche"
                             },
                             {
                                 "label": "Завокзалье",
-                                "slug": "zavokzale"
+                                "eng": "zavokzale"
                             },
                             {
                                 "label": "Запсковье",
-                                "slug": "zapskove"
+                                "eng": "zapskove"
                             },
                             {
                                 "label": "Центр",
-                                "slug": "centr"
+                                "eng": "centr"
                             }
                         ]
                     },
@@ -23157,67 +23157,67 @@
                         "districts": [
                             {
                                 "label": "Ашкадарский",
-                                "slug": "ashkadarskiy"
+                                "eng": "ashkadarskiy"
                             },
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Коммунистический",
-                                "slug": "kommunisticheskiy"
+                                "eng": "kommunisticheskiy"
                             },
                             {
                                 "label": "Комсомольский",
-                                "slug": "komsomolskiy"
+                                "eng": "komsomolskiy"
                             },
                             {
                                 "label": "Краснознаменский",
-                                "slug": "krasnoznamenskiy"
+                                "eng": "krasnoznamenskiy"
                             },
                             {
                                 "label": "Курчатовский",
-                                "slug": "kurchatovskiy"
+                                "eng": "kurchatovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Михайловский",
-                                "slug": "mihaylovskiy"
+                                "eng": "mihaylovskiy"
                             },
                             {
                                 "label": "Нахимовский",
-                                "slug": "nahimovskiy"
+                                "eng": "nahimovskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Солнечный",
-                                "slug": "solnechnyy"
+                                "eng": "solnechnyy"
                             },
                             {
                                 "label": "Уральский",
-                                "slug": "uralskiy"
+                                "eng": "uralskiy"
                             },
                             {
                                 "label": "Шахтау",
-                                "slug": "shahtau"
+                                "eng": "shahtau"
                             },
                             {
                                 "label": "Южный",
-                                "slug": "yuzhnyy"
+                                "eng": "yuzhnyy"
                             }
                         ]
                     },
@@ -23354,31 +23354,31 @@
                         "districts": [
                             {
                                 "label": "Дёмский",
-                                "slug": "dyomskiy"
+                                "eng": "dyomskiy"
                             },
                             {
                                 "label": "Калининский",
-                                "slug": "kalininskiy"
+                                "eng": "kalininskiy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Орджоникидзевский",
-                                "slug": "ordzhonikidzevskiy"
+                                "eng": "ordzhonikidzevskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -23704,15 +23704,15 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -24357,103 +24357,103 @@
                         "districts": [
                             {
                                 "label": "Бараний берег",
-                                "slug": "baraniy-bereg"
+                                "eng": "baraniy-bereg"
                             },
                             {
                                 "label": "Голиковка",
-                                "slug": "golikovka"
+                                "eng": "golikovka"
                             },
                             {
                                 "label": "Древлянка",
-                                "slug": "drevlyanka"
+                                "eng": "drevlyanka"
                             },
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Зарека",
-                                "slug": "zareka"
+                                "eng": "zareka"
                             },
                             {
                                 "label": "Зимник",
-                                "slug": "zimnik"
+                                "eng": "zimnik"
                             },
                             {
                                 "label": "Ивановские острова",
-                                "slug": "ivanovskie-ostrova"
+                                "eng": "ivanovskie-ostrova"
                             },
                             {
                                 "label": "Каменный бор",
-                                "slug": "kamennyy-bor"
+                                "eng": "kamennyy-bor"
                             },
                             {
                                 "label": "Ключевая",
-                                "slug": "klyuchevaya"
+                                "eng": "klyuchevaya"
                             },
                             {
                                 "label": "Кукковка",
-                                "slug": "kukkovka"
+                                "eng": "kukkovka"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             },
                             {
                                 "label": "Перевалка",
-                                "slug": "perevalka"
+                                "eng": "perevalka"
                             },
                             {
                                 "label": "Пески",
-                                "slug": "peski"
+                                "eng": "peski"
                             },
                             {
                                 "label": "Птицефабрика",
-                                "slug": "pticefabrika"
+                                "eng": "pticefabrika"
                             },
                             {
                                 "label": "Рыбка",
-                                "slug": "rybka"
+                                "eng": "rybka"
                             },
                             {
                                 "label": "Сайнаволок",
-                                "slug": "saynavolok"
+                                "eng": "saynavolok"
                             },
                             {
                                 "label": "Северная промзона",
-                                "slug": "severnaya-promzona"
+                                "eng": "severnaya-promzona"
                             },
                             {
                                 "label": "Соломенное",
-                                "slug": "solomennoe"
+                                "eng": "solomennoe"
                             },
                             {
                                 "label": "Сулажгора",
-                                "slug": "sulazhgora"
+                                "eng": "sulazhgora"
                             },
                             {
                                 "label": "Сулажгорский кирпичный завод",
-                                "slug": "sulazhgorskiy-kirpichnyy-zavod"
+                                "eng": "sulazhgorskiy-kirpichnyy-zavod"
                             },
                             {
                                 "label": "Тепличный",
-                                "slug": "teplichnyy"
+                                "eng": "teplichnyy"
                             },
                             {
                                 "label": "Томицы",
-                                "slug": "tomicy"
+                                "eng": "tomicy"
                             },
                             {
                                 "label": "Центр",
-                                "slug": "centr"
+                                "eng": "centr"
                             },
                             {
                                 "label": "Южная промзона",
-                                "slug": "yuzhnaya-promzona"
+                                "eng": "yuzhnaya-promzona"
                             }
                         ]
                     },
@@ -25651,19 +25651,19 @@
                         "districts": [
                             {
                                 "label": "Затеречный",
-                                "slug": "zaterechnyy"
+                                "eng": "zaterechnyy"
                             },
                             {
                                 "label": "Иристонский",
-                                "slug": "iristonskiy"
+                                "eng": "iristonskiy"
                             },
                             {
                                 "label": "Промышленный",
-                                "slug": "promyshlennyy"
+                                "eng": "promyshlennyy"
                             },
                             {
                                 "label": "Северо-западный",
-                                "slug": "severo-zapadnyy"
+                                "eng": "severo-zapadnyy"
                             }
                         ]
                     },
@@ -26049,31 +26049,31 @@
                         "districts": [
                             {
                                 "label": "Авиастроительный",
-                                "slug": "aviastroitelnyy"
+                                "eng": "aviastroitelnyy"
                             },
                             {
                                 "label": "Вахитовский",
-                                "slug": "vahitovskiy"
+                                "eng": "vahitovskiy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Московский",
-                                "slug": "moskovskiy"
+                                "eng": "moskovskiy"
                             },
                             {
                                 "label": "Ново-савиновский",
-                                "slug": "novo-savinovskiy"
+                                "eng": "novo-savinovskiy"
                             },
                             {
                                 "label": "Приволжский",
-                                "slug": "privolzhskiy"
+                                "eng": "privolzhskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -26250,15 +26250,15 @@
                         "districts": [
                             {
                                 "label": "Автозаводский",
-                                "slug": "avtozavodskiy"
+                                "eng": "avtozavodskiy"
                             },
                             {
                                 "label": "Комсомольский",
-                                "slug": "komsomolskiy"
+                                "eng": "komsomolskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -27670,35 +27670,35 @@
                         "districts": [
                             {
                                 "label": "Ворошиловский",
-                                "slug": "voroshilovskiy"
+                                "eng": "voroshilovskiy"
                             },
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             },
                             {
                                 "label": "Ролетарский",
-                                "slug": "roletarskiy"
+                                "eng": "roletarskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -27811,31 +27811,31 @@
                         "districts": [
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Западный",
-                                "slug": "zapadnyy"
+                                "eng": "zapadnyy"
                             },
                             {
                                 "label": "Михайловка",
-                                "slug": "mihaylovka"
+                                "eng": "mihaylovka"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             },
                             {
                                 "label": "Северо-западный",
-                                "slug": "severo-zapadnyy"
+                                "eng": "severo-zapadnyy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             },
                             {
                                 "label": "Южный",
-                                "slug": "yuzhnyy"
+                                "eng": "yuzhnyy"
                             }
                         ]
                     },
@@ -28137,19 +28137,19 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Московский",
-                                "slug": "moskovskiy"
+                                "eng": "moskovskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -28647,39 +28647,39 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Красноглинский",
-                                "slug": "krasnoglinskiy"
+                                "eng": "krasnoglinskiy"
                             },
                             {
                                 "label": "Куйбышевский",
-                                "slug": "kuybyshevskiy"
+                                "eng": "kuybyshevskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Промышленный",
-                                "slug": "promyshlennyy"
+                                "eng": "promyshlennyy"
                             },
                             {
                                 "label": "Самарский",
-                                "slug": "samarskiy"
+                                "eng": "samarskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -28740,15 +28740,15 @@
                         "districts": [
                             {
                                 "label": "Автозаводский",
-                                "slug": "avtozavodskiy"
+                                "eng": "avtozavodskiy"
                             },
                             {
                                 "label": "Комсомольский",
-                                "slug": "komsomolskiy"
+                                "eng": "komsomolskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -29186,27 +29186,27 @@
                         "districts": [
                             {
                                 "label": "Волжский",
-                                "slug": "volzhskiy"
+                                "eng": "volzhskiy"
                             },
                             {
                                 "label": "Заводской",
-                                "slug": "zavodskoy"
+                                "eng": "zavodskoy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Фрунзенский",
-                                "slug": "frunzenskiy"
+                                "eng": "frunzenskiy"
                             }
                         ]
                     },
@@ -29753,31 +29753,31 @@
                         "districts": [
                             {
                                 "label": "Верх-исетский",
-                                "slug": "verh-isetskiy"
+                                "eng": "verh-isetskiy"
                             },
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Орджоникидзевский",
-                                "slug": "ordzhonikidzevskiy"
+                                "eng": "ordzhonikidzevskiy"
                             },
                             {
                                 "label": "Чкаловский",
-                                "slug": "chkalovskiy"
+                                "eng": "chkalovskiy"
                             }
                         ]
                     },
@@ -30094,15 +30094,15 @@
                         "districts": [
                             {
                                 "label": "Дзержинский",
-                                "slug": "dzerzhinskiy"
+                                "eng": "dzerzhinskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Тагилстроевский",
-                                "slug": "tagilstroevskiy"
+                                "eng": "tagilstroevskiy"
                             }
                         ]
                     },
@@ -30620,15 +30620,15 @@
                         "districts": [
                             {
                                 "label": "Заднепровский",
-                                "slug": "zadneprovskiy"
+                                "eng": "zadneprovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Промышленный",
-                                "slug": "promyshlennyy"
+                                "eng": "promyshlennyy"
                             }
                         ]
                     },
@@ -31202,79 +31202,79 @@
                         "districts": [
                             {
                                 "label": "6-й микрорайон",
-                                "slug": "6-y-mikrorayon"
+                                "eng": "6-y-mikrorayon"
                             },
                             {
                                 "label": "Бан",
-                                "slug": "ban"
+                                "eng": "ban"
                             },
                             {
                                 "label": "Воробьёвка",
-                                "slug": "vorobyovka"
+                                "eng": "vorobyovka"
                             },
                             {
                                 "label": "Головное",
-                                "slug": "golovnoe"
+                                "eng": "golovnoe"
                             },
                             {
                                 "label": "Зип",
-                                "slug": "zip"
+                                "eng": "zip"
                             },
                             {
                                 "label": "Красная деревня",
-                                "slug": "krasnaya-derevnya"
+                                "eng": "krasnaya-derevnya"
                             },
                             {
                                 "label": "Мельница",
-                                "slug": "melnica"
+                                "eng": "melnica"
                             },
                             {
                                 "label": "Мжк",
-                                "slug": "mzhk"
+                                "eng": "mzhk"
                             },
                             {
                                 "label": "Микрорайон 101",
-                                "slug": "mikrorayon-101"
+                                "eng": "mikrorayon-101"
                             },
                             {
                                 "label": "Микрорайон 103-104",
-                                "slug": "mikrorayon-103-104"
+                                "eng": "mikrorayon-103-104"
                             },
                             {
                                 "label": "Микрорайон 105",
-                                "slug": "mikrorayon-105"
+                                "eng": "mikrorayon-105"
                             },
                             {
                                 "label": "Низки",
-                                "slug": "nizki"
+                                "eng": "nizki"
                             },
                             {
                                 "label": "Правокубанский",
-                                "slug": "pravokubanskiy"
+                                "eng": "pravokubanskiy"
                             },
                             {
                                 "label": "Прп",
-                                "slug": "prp"
+                                "eng": "prp"
                             },
                             {
                                 "label": "Рождественское",
-                                "slug": "rozhdestvenskoe"
+                                "eng": "rozhdestvenskoe"
                             },
                             {
                                 "label": "Старый город",
-                                "slug": "staryy-gorod"
+                                "eng": "staryy-gorod"
                             },
                             {
                                 "label": "Фабрика",
-                                "slug": "fabrika"
+                                "eng": "fabrika"
                             },
                             {
                                 "label": "Химпосёлок",
-                                "slug": "himposyolok"
+                                "eng": "himposyolok"
                             },
                             {
                                 "label": "Центр",
-                                "slug": "centr"
+                                "eng": "centr"
                             }
                         ]
                     },
@@ -31563,15 +31563,15 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Промышленный",
-                                "slug": "promyshlennyy"
+                                "eng": "promyshlennyy"
                             }
                         ]
                     },
@@ -32017,15 +32017,15 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -32271,19 +32271,19 @@
                         "districts": [
                             {
                                 "label": "Заволжский",
-                                "slug": "zavolzhskiy"
+                                "eng": "zavolzhskiy"
                             },
                             {
                                 "label": "Московский",
-                                "slug": "moskovskiy"
+                                "eng": "moskovskiy"
                             },
                             {
                                 "label": "Пролетарский",
-                                "slug": "proletarskiy"
+                                "eng": "proletarskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -32477,19 +32477,19 @@
                         "districts": [
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             }
                         ]
                     },
@@ -32743,23 +32743,23 @@
                         "districts": [
                             {
                                 "label": "Зареченский",
-                                "slug": "zarechenskiy"
+                                "eng": "zarechenskiy"
                             },
                             {
                                 "label": "Привокзальный",
-                                "slug": "privokzalnyy"
+                                "eng": "privokzalnyy"
                             },
                             {
                                 "label": "Пролетарский",
-                                "slug": "proletarskiy"
+                                "eng": "proletarskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -33033,19 +33033,19 @@
                         "districts": [
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Калининский",
-                                "slug": "kalininskiy"
+                                "eng": "kalininskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -33183,23 +33183,23 @@
                         "districts": [
                             {
                                 "label": "Индустриальный",
-                                "slug": "industrialnyy"
+                                "eng": "industrialnyy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Октябрьский",
-                                "slug": "oktyabrskiy"
+                                "eng": "oktyabrskiy"
                             },
                             {
                                 "label": "Первомайский",
-                                "slug": "pervomayskiy"
+                                "eng": "pervomayskiy"
                             },
                             {
                                 "label": "Устиновский",
-                                "slug": "ustinovskiy"
+                                "eng": "ustinovskiy"
                             }
                         ]
                     },
@@ -33753,19 +33753,19 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Заволжский",
-                                "slug": "zavolzhskiy"
+                                "eng": "zavolzhskiy"
                             },
                             {
                                 "label": "Засвияжский",
-                                "slug": "zasviyazhskiy"
+                                "eng": "zasviyazhskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             }
                         ]
                     },
@@ -34011,23 +34011,23 @@
                         "districts": [
                             {
                                 "label": "Железнодорожный",
-                                "slug": "zheleznodorozhnyy"
+                                "eng": "zheleznodorozhnyy"
                             },
                             {
                                 "label": "Индустриальный",
-                                "slug": "industrialnyy"
+                                "eng": "industrialnyy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Краснофлотский",
-                                "slug": "krasnoflotskiy"
+                                "eng": "krasnoflotskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -34337,23 +34337,23 @@
                         "districts": [
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Северный жилой",
-                                "slug": "severnyy-zhiloy"
+                                "eng": "severnyy-zhiloy"
                             },
                             {
                                 "label": "Северный промышленный",
-                                "slug": "severnyy-promyshlennyy"
+                                "eng": "severnyy-promyshlennyy"
                             },
                             {
                                 "label": "Северо-восточный жилой",
-                                "slug": "severo-vostochnyy-zhiloy"
+                                "eng": "severo-vostochnyy-zhiloy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -34788,15 +34788,15 @@
                         "districts": [
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Орджоникидзевский",
-                                "slug": "ordzhonikidzevskiy"
+                                "eng": "ordzhonikidzevskiy"
                             },
                             {
                                 "label": "Правобережный",
-                                "slug": "pravoberezhnyy"
+                                "eng": "pravoberezhnyy"
                             }
                         ]
                     },
@@ -34817,43 +34817,43 @@
                         "districts": [
                             {
                                 "label": "Атлянский",
-                                "slug": "atlyanskiy"
+                                "eng": "atlyanskiy"
                             },
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Западный",
-                                "slug": "zapadnyy"
+                                "eng": "zapadnyy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Новоандреевский",
-                                "slug": "novoandreevskiy"
+                                "eng": "novoandreevskiy"
                             },
                             {
                                 "label": "Северный",
-                                "slug": "severnyy"
+                                "eng": "severnyy"
                             },
                             {
                                 "label": "Тургоякский",
-                                "slug": "turgoyakskiy"
+                                "eng": "turgoyakskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             },
                             {
                                 "label": "Черновской",
-                                "slug": "chernovskoy"
+                                "eng": "chernovskoy"
                             },
                             {
                                 "label": "Южный",
-                                "slug": "yuzhnyy"
+                                "eng": "yuzhnyy"
                             }
                         ]
                     },
@@ -35066,31 +35066,31 @@
                         "districts": [
                             {
                                 "label": "Калининский",
-                                "slug": "kalininskiy"
+                                "eng": "kalininskiy"
                             },
                             {
                                 "label": "Курчатовский",
-                                "slug": "kurchatovskiy"
+                                "eng": "kurchatovskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Металлургический",
-                                "slug": "metallurgicheskiy"
+                                "eng": "metallurgicheskiy"
                             },
                             {
                                 "label": "Советский",
-                                "slug": "sovetskiy"
+                                "eng": "sovetskiy"
                             },
                             {
                                 "label": "Тракторозаводский",
-                                "slug": "traktorozavodskiy"
+                                "eng": "traktorozavodskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             }
                         ]
                     },
@@ -35505,15 +35505,15 @@
                         "districts": [
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Западный",
-                                "slug": "zapadnyy"
+                                "eng": "zapadnyy"
                             },
                             {
                                 "label": "Южный",
-                                "slug": "yuzhnyy"
+                                "eng": "yuzhnyy"
                             }
                         ]
                     },
@@ -35666,19 +35666,19 @@
                         "districts": [
                             {
                                 "label": "Заволжье",
-                                "slug": "zavolzhe"
+                                "eng": "zavolzhe"
                             },
                             {
                                 "label": "Калининский",
-                                "slug": "kalininskiy"
+                                "eng": "kalininskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Московский",
-                                "slug": "moskovskiy"
+                                "eng": "moskovskiy"
                             }
                         ]
                     },
@@ -36278,35 +36278,35 @@
                         "districts": [
                             {
                                 "label": "Восточный",
-                                "slug": "vostochnyy"
+                                "eng": "vostochnyy"
                             },
                             {
                                 "label": "Заволжье-1",
-                                "slug": "zavolzhe-1"
+                                "eng": "zavolzhe-1"
                             },
                             {
                                 "label": "Заволжье-2",
-                                "slug": "zavolzhe-2"
+                                "eng": "zavolzhe-2"
                             },
                             {
                                 "label": "Западный",
-                                "slug": "zapadnyy"
+                                "eng": "zapadnyy"
                             },
                             {
                                 "label": "Переборский",
-                                "slug": "pereborskiy"
+                                "eng": "pereborskiy"
                             },
                             {
                                 "label": "Центральный",
-                                "slug": "centralnyy"
+                                "eng": "centralnyy"
                             },
                             {
                                 "label": "Шекснинский",
-                                "slug": "sheksninskiy"
+                                "eng": "sheksninskiy"
                             },
                             {
                                 "label": "Южный",
-                                "slug": "yuzhnyy"
+                                "eng": "yuzhnyy"
                             }
                         ]
                     },
@@ -36371,27 +36371,27 @@
                         "districts": [
                             {
                                 "label": "Дзержинский",
-                                "slug": "dzerzhinskiy"
+                                "eng": "dzerzhinskiy"
                             },
                             {
                                 "label": "Заволжский",
-                                "slug": "zavolzhskiy"
+                                "eng": "zavolzhskiy"
                             },
                             {
                                 "label": "Кировский",
-                                "slug": "kirovskiy"
+                                "eng": "kirovskiy"
                             },
                             {
                                 "label": "Красноперекопский",
-                                "slug": "krasnoperekopskiy"
+                                "eng": "krasnoperekopskiy"
                             },
                             {
                                 "label": "Ленинский",
-                                "slug": "leninskiy"
+                                "eng": "leninskiy"
                             },
                             {
                                 "label": "Фрунзенский",
-                                "slug": "frunzenskiy"
+                                "eng": "frunzenskiy"
                             }
                         ]
                     }
